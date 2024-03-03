@@ -1,0 +1,8 @@
+- This Dashboard shows the sales made within a period for a particular region,city      and state.
+- The analyses is done based on sales by Segment, category and Ship mode
+- Also an analysis is done on Monthly Sales and Montly Profit
+- The KPI is highlited for unit sold,Sales, Profits and Total customer,Total Order,Total Products
+
+
+1200
+1980
